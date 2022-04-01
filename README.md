@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vladislav-Pashkovskiy
+- 👀 I’m working in a GrapeCity Rus
+- 🌱 I’m currently taking a position of Business Development Manager
+- 💞️ I’m looking to collaborate with companies that are working with JavaScript and .NET grids, UI, reporting, spreadsheets, document APIs, and mobile controls.
+- 📫 How to reach me? Email me vladislav.pashkovskiy@grapecity.com. Write/call me +79139243494 
